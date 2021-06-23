@@ -7,7 +7,6 @@ Very Easy Bot || Telegaram Bot ||Simple Welcome Message Bot|| THANKS
 
 <p align="middle">
 <img src="https://telegra.ph/file/b37ac7f18d024bc8d39aa.jpg" width="150" height="150"><br>
-<img src="https://badgen.net/badge/Name/MRK-YT/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/😞/purple?icon=terminal&labelColor=red"></a>
 <a href="https://telegram.dog/devalaper"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
 <a href="https://github.com/devanandm"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
