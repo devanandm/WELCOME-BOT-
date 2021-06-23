@@ -31,12 +31,12 @@ Very Easy Bot || Telegaram Bot ||Simple Welcome Message Bot|| THANKS
 ```
 
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-WELCOME-BOT/stargazers">
+  <a href="https://github.com/devanandm/WELCOME-BOT-">
     <img src="https://img.shields.io/github/stars/MRK-YT/MT-WELCOME-BOT?style=social">
 
  </a>
   
-  <a href="https://github.com/MRK-YT/MT-WELCOME-BOT/fork">
+  <a href="https://github.com/devanandm/WELCOME-BOT-">
     <img src="https://img.shields.io/github/forks/MRK-YT/MT-WELCOME-BOT?label=Fork&style=social">
 
   </a>  
@@ -46,12 +46,3 @@ Very Easy Bot || Telegaram Bot ||Simple Welcome Message Bot|| THANKS
 
 👉Login Github 👉 [![Login GitHub](https://img.shields.io/badge/Click-Here-red?style=flat&logo=github)](https://github.com)
 ```
-Tutorial Video
-```
-👉Tutorial Video 👉 [![Login GitHub](https://badgen.net/badge/How%20To%20/Login/red)](https://youtu.be/J24MHWQRKto)
-
-#### How To Create This Bot
-```
-Welcome Message Bot👇
-```
-👉Tutorial Video 👉 [![Tutorial Video](https://img.shields.io/badge/Tutorial-Video-red?style=flat&logo=YouTube)](https://youtu.be/0a5nnEj5BjY) 
